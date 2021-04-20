@@ -1,7 +1,7 @@
 # 👋 Hi, I’m George Chakama
 - 👀 I’m interested in everything Web Related
 - 🌱 I’m currently learning how to talk to Aliens
-- 💞️ I’m looking to collaborate on any project involving Javascript 
+- 💞️ I’m looking to collaborate on any project involving JavaScript 
 - 📫 send me an email - gtchakama@gmail.com
 
  ## Who am I?
