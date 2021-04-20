@@ -7,22 +7,22 @@
  ## Who am I?
  ```python
  class WhoAmI:
- 	user = 'Haany Ali'
-	current_edu = "St. Mary's Group of Institutions"
+ 	user = 'George Chakama'
+	current_edu = "Currently Polishing TypeScript skills"
 	hobbies = [
-				'Drawing',
-				'Watching Anime',
-				'Reading Sci-Fi Novels'
+				'Travelling',
+				'Watching Documentaries',
+				'Jogging'
 				'Being up all Night chasing that ONE BUG...'
 			]
 	
 	def getCity():
-		return Hyderabad_India()
+		return Harare_ZW()
 	
 	def Ambitions():
-		LearnJapanese()
-		CreateSkyNet()
-		FinishMyNovel()
+		LearnPython()
+		CreateMobileGame()
+		Finish100TypeScriptProjects()
 		# Assume 10 more awesome ambitions here  ;)
 	
  ```
