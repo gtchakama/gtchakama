@@ -19,7 +19,7 @@
 	def getCity():
 		return Harare_ZW()
 	
-	def Ambitions():
+	def Goals():
 		LearnPython()
 		CreateMobileGame()
 		Finish100TypeScriptProjects()
