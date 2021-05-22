@@ -8,11 +8,11 @@
  ```python
  class WhoAmI:
  	user = 'George Chakama'
-	current_edu = "Currently Polishing TypeScript skills"
-	hobbies = [
+	current_addiction = "Building awesome React Apps and learning the React Eco-system"
+	hobbies && skills = [
 				'Travelling',
-				'Watching Documentaries',
-				'Jogging'
+				'Fixing grandma's WIFI',
+				'Doing just one small favor',
 				'Being up all Night chasing that ONE BUG...'
 			]
 	
@@ -20,8 +20,8 @@
 		return Harare_ZW()
 	
 	def Goals():
-		LearnPython()
-		CreateMobileGame()
+		LearnReactNative()
+		Create PWA's()
 		Finish100TypeScriptProjects()
 		# Assume 10 more awesome ambitions here  ;)
 	
