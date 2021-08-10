@@ -1,11 +1,14 @@
-# 👋 Hi, I’m George Chakama
-- 👀 I’m interested in everything Web Related
-- 🌱 I’m currently learning how to talk to Aliens
-- 💞️ I’m looking to collaborate on any project involving JavaScript 
-- 📫 send me an email - gtchakama@gmail.com
+# Hi, I’m ``George Chakama``
+- 👀 Interested in everything Web Related especially *PWA's*.
+- 🌱 Currently growing my ``JavaScript`` skills in everything React JS.
+- 💞️ I’m looking to collaborate on any project involving ``JavaScript``. 
+- 📫 send me an email - **gtchakama@gmail.com**.
 
  ## Who am I?
  ```python
+ 
+//code makes no sense but...
+
  class WhoAmI:
  	user = 'George Chakama'
 	current_addiction = "Building awesome React Apps and learning the React Eco-system"
@@ -20,10 +23,10 @@
 		return Harare_ZW()
 	
 	def Goals():
-		LearnReactNative()
-		Create PWA's()
-		Finish100TypeScriptProjects()
-		# Assume 10 more awesome ambitions here  ;)
+		Become a FullStack Dev()
+		Create dating App that matches people with their Browser history()
+		Do-100-TypeScript-Projects()
+		Ask me for more of my goals 👨🏼‍💻  ;)
 	
  ```
 
