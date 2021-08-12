@@ -4,6 +4,13 @@
 - 💞️ I’m looking to collaborate on any project involving ``JavaScript``. 
 - 📫 send me an email - **gtchakama@gmail.com**.
 
+## 📔Recent Blog articles. 
+
+1. [Let's Hack YouTube. ](https://www.chakama.co.zw/hack-youtube-unsub)
+
+2. [Things I wish I knew before becoming a Software Engineer. ](https://www.chakama.co.zw/i-wish-knew-this)
+
+
  ## Who am I?
  ```python
  
