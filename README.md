@@ -11,6 +11,24 @@
 2. [Things I wish I knew before becoming a Software Engineer. ](https://www.chakama.co.zw/i-wish-knew-this)
 
 
+
+### I broke the Google offline dinosaur game 🤫.
+Go past this code in the console then play the game.👨🏾‍🏭
+
+
+``` Javascript 
+var original = Runner.prototype.gameOver
+
+```
+
+Next, enter this command:
+
+```Javascript 
+Runner.prototype.gameOver = function (){}
+```
+
+
+<!---
  ## Who am I?
  ```python
  
@@ -37,7 +55,6 @@
 	
  ```
 
-<!---
 gtchakama/gtchakama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
