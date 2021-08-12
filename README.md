@@ -1,10 +1,13 @@
-# Hi, I’m ``George Chakama``
-- 👀 Interested in everything Web Related especially *PWA's*.
+# Hi, I’m George Chakama. 
+
+I'm quietly confident, naturally curious, and perpetually working on improving my chops solving one problem at a time.
+
+- 😉 Interested in everything Web Related especially *PWA's*.
 - 🌱 Currently growing my ``JavaScript`` skills in everything React JS.
-- 💞️ I’m looking to collaborate on any project involving ``JavaScript``. 
+- 👨🏾‍🏭 I’m looking to collaborate on any project involving ``JavaScript``. 
 - 📫 send me an email - **gtchakama@gmail.com**.
 
-## 📔Recent Blog articles. 
+## 📔 Recent Blog articles. 
 
 1. [Let's Hack YouTube. ](https://www.chakama.co.zw/hack-youtube-unsub)
 
@@ -13,7 +16,7 @@
 
 
 ### I broke the Google offline dinosaur game 🤫.
-Go past this code in the console then play the game.👨🏾‍🏭
+Go past this code in the console before you play the game.
 
 
 ``` Javascript 
@@ -27,7 +30,7 @@ Next, enter this command:
 Runner.prototype.gameOver = function (){}
 ```
 
-## My Profile 
+## My Profile. 
 
 ``` Javascript
 const Developer = { 
