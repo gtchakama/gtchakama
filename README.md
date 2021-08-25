@@ -9,9 +9,9 @@ I'm quietly confident, naturally curious, and perpetually working on improving m
 
 ## 📔 Recent Blog articles. 
 
-1. [Let's Hack YouTube. ](https://www.chakama.co.zw/hack-youtube-unsub)
+1. [JavaScript Console API 💬 ](https://www.chakama.co.zw/console-api)
 
-2. [Things I wish I knew before becoming a Software Engineer. ](https://www.chakama.co.zw/i-wish-knew-this)
+2. [Toggle with useState 🤒.](https://www.chakama.co.zw/usestate-toggle)
 
 
 
