@@ -9,9 +9,9 @@ I'm quietly confident, naturally curious, and perpetually working on improving m
 
 ## 📔 Recent Blog articles. 
 
-1. [JavaScript Console API 💬 ](https://www.chakama.co.zw/console-api)
+1. [3 Ways my Code got Better 😉 ](https://www.chakama.co.zw/ways-that-improved-my-coding)
 
-2. [Toggle with useState 🤒.](https://www.chakama.co.zw/usestate-toggle)
+2. [JavaScript Console API 💬](https://www.chakama.co.zw/console-api)
 
 
 
