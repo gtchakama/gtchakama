@@ -13,7 +13,8 @@ I'm quietly confident, naturally curious, and perpetually working on improving m
 
 2. [JavaScript Console API 💬](https://www.chakama.co.zw/console-api)
 
-
+## 🧏🏽‍♀️ I'm building [HearMe](https://www.hearme.co.zw)
+A project for people who are speech impaired.
 
 ### I broke the Google offline dinosaur game 🤫.
 Go past this code in the console before you play the game.
