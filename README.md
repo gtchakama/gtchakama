@@ -9,11 +9,11 @@ I'm quietly confident, naturally curious, and perpetually working on improving m
 
 ## 📔 Recent Blog articles. 
 
-1. [3 Ways my Code got Better 😉 ](https://www.chakama.co.zw/ways-that-improved-my-coding)
+1. [== or === 😟](https://chakama.co.zw/eqaulity/)
 
-2. [JavaScript Console API 💬](https://www.chakama.co.zw/console-api)
+2. [What are Cookies 🍪](https://chakama.co.zw/cookies/)
 
-## 🧏🏽‍♀️ I'm building [HearMe](https://www.hearme.co.zw)
+## 🧏🏽‍♀️ I'm building [HearMe](https://www.hearme.co.zw) v2
 A project for people who are speech impaired.
 
 ### I broke the Google offline dinosaur game 🤫.
