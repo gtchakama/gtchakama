@@ -9,9 +9,10 @@ I'm quietly confident, naturally curious, and perpetually working on improving m
 
 ## 📔 Recent Blog articles. 
 
-1. [What is This ? 🥱](https://chakama.co.zw/what-is-this/)
+1. [Using JS like an Expect 💪🏼](https://chakama.co.zw/js-like-an-expect/)
+2. [What is This ? 🥱](https://chakama.co.zw/what-is-this/)
 
-2. [== or === 😟](https://chakama.co.zw/eqaulity/)
+
 
 ## 🧏🏽‍♀️ I'm building [HearMe](https://www.hearme.co.zw) v2
 A project for people who are speech impaired.
