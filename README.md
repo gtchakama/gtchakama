@@ -9,7 +9,7 @@ I'm quietly confident, naturally curious, and perpetually working on improving m
 
 ## 📔 Recent Blog articles. 
 
-1. [Using JS like an Expect 💪🏼](https://chakama.co.zw/js-like-an-expect/)
+1. [Using JS like an Expert 💪🏼](https://chakama.co.zw/js-like-an-expect/)
 2. [What is This ? 🥱](https://chakama.co.zw/what-is-this/)
 
 
