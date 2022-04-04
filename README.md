@@ -14,7 +14,7 @@ I'm quietly confident, naturally curious, and perpetually working on improving m
 
 
 
-## 🧏🏽‍♀️ I'm building [HearMe](https://www.hearme.co.zw) v2
+## 🧏🏽‍♀️ I'm building [HearMe](https://www.hearme.co.zw) 
 A project for people who are speech impaired.
 
 ### I broke the Google offline dinosaur game 🤫.
