@@ -33,6 +33,6 @@ Runner.prototype.gameOver = function (){}
 ```
 
 ## Currently building.
-1. Create dating App that matches people with their Browser history.
+1. Dating App that matches people with their Browser history.
 2. My portfolio [version 4](https://chg4.netlify.app/)
 
