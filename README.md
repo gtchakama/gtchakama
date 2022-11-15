@@ -9,8 +9,8 @@ I'm quietly confident, naturally curious, and perpetually working on improving m
 
 ## 📔 Recent Blog articles. 
 
-1. [Using JS like an Expert 💪🏼](https://chakama.co.zw/js-like-an-expect/)
-2. [What is This ? 🥱](https://chakama.co.zw/what-is-this/)
+1. [TypeScript Special types 💪🏼](https://chakama.co.zw/posts/ts-special-types)
+2. [next ( ) is not the same as return ( ) 🍀](https://chakama.co.zw/posts/nextFunction)
 
 
 
