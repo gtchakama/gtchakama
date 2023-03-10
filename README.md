@@ -9,8 +9,8 @@ I'm quietly confident, naturally curious, and perpetually working on improving m
 
 ## 📔 Recent Blog articles. 
 
-1. [TypeScript Special types 💪🏼](https://chakama.co.zw/posts/ts-special-types)
-2. [next ( ) is not the same as return ( ) 🍀](https://chakama.co.zw/posts/nextFunction)
+1. [Using TS in ReactJS](https://blog.gtchakama.com/posts/advanced-ts-react)
+2. [Advanced React Hooks (part 1)](https://blog.gtchakama.com/posts/react-hooks)
 
 
 
