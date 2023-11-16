@@ -1,44 +1,27 @@
-## Hi, i'm George Chakama, a Fullstack Developer 🥪
+## Hi, I'm George Chakama, a Passionate Fullstack Developer 🚀
 
-I'm a tech enthusiast who is absolutely passionate about crafting scalable and robust web applications using a variety of technologies. With years of experience under my belt, I've built some pretty impressive projects that have even blown my own mind 🤯. 
+Dedicated to crafting scalable and robust web applications, I bring expertise in a diverse tech stack, including:
 
-## 💻 Technologies I Work With
-- Frontend: ReactJS, Angular 🪂
-- Backend: NodeJS, Express ⛽
-- Databases: MongoDB, Postgres, MySQL 🧳
-- Cloud Services: AWS, Firebase, Heroku 🛸
-- DevOps: Docker, GitLab CI/CD 🏕️
+- **Frontend**: ReactJS, React Native, Angular 🚀
+- **Backend**: Ruby on Rails, NodeJS, Express ⛽
+- **Databases**: MongoDB, Postgres, MySQL 🧳
+- **Cloud Services**: AWS, Firebase, Heroku 🛸
+- **DevOps**: Docker, GitLab CI/CD 🏕️
 
-## 🔥 My Passion for Web3
-As an ardent believer in the decentralized web, I'm always tinkering with blockchain technology and exploring ways to integrate Web3 into my projects. I find the potential of Web3 to be limitless and can't wait to see what new creations we can come up with.
+My passion extends to the decentralized web (Web3), actively integrating blockchain tech. As a co-founder of Zim Developers and a community leader at Built Different, I foster collaboration and conversations elevating Zimbabwe's developer community.
 
-## 🤝 Community Leadership and Mentorship
-I'm honored to serve as a co-founder of Zim Developers, where I help developers network, collaborate, and facilitate conversations that build developers around Zimbabwe. I'm also a community leader for Built Different, a thriving Web3 community where we discuss, explore, and experiment with the decentralized web.
+📱 **Mobile Development:** With a focus on creating exceptional mobile experiences, I work with React Native and stay on the cutting edge of cross-platform development.
 
-As a mentor and a community leader, I strive to empower others to reach their full potential and create an inclusive environment for everyone to thrive in.
+Let's Connect! Whether it's exciting projects, Web3 discussions, or just a chat, find me on Github or LinkedIn. Together, let's build something extraordinary 🚀
 
-## 📱 Flutter Development
-I'm currently diving headfirst into Flutter development and expanding my skillset to build beautiful cross-platform mobile applications. The ability to create stunning UIs with Flutter continues to blow my mind, and I can't wait to see where it takes me.
+Explore my insights on:
+- [Building ReactJS Apps with Design Systems](https://blog.gtchakama.com/posts/react-design-sys)
+- [Procrastination](https://blog.gtchakama.com/posts/procrastination)
 
-## 🌟 Let's Connect!
-If you're interested in collaborating on exciting projects, discussing Web3, or just want to connect and chat, feel free to reach out to me on Github or LinkedIn. 
+Check out [HearMe](https://www.hearme.co.zw), a project aiding the speech impaired.
 
+Currently crafting:
+1. Dating App matching people based on browser history.
+2. My evolving [Portfolio v7](https://blog.gtchakama.com/)
 
-Thanks for stopping by! Now, let's build something incredible together 🤗
-
-
-## 📔 My Blog articles. 
-
-1. [Building ReactJS Applications with Design Systems](https://blog.gtchakama.com/posts/react-design-sys)
-2. [Procrastination](https://blog.gtchakama.com/posts/procrastination)
-
-
-
-## 🧏🏽‍♀️ I built [HearMe](https://www.hearme.co.zw) 
-A project for people who are speech impaired.
-
-
-## Currently building.
-1. Dating App that matches people with their Browser history.
-2. My portfolio [version 7](https://blog.gtchakama.com/)
-
+Thanks for visiting – let's create something amazing together! 🤗
