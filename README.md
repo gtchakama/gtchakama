@@ -1,23 +1,26 @@
-Innovative Fullstack Developer with a track record of building scalable, high-performance web and mobile applications. I specialize in architecting robust systems, optimizing user experiences, and integrating advanced cloud and AI-driven solutions.  
+# George Chakama
 
-## Tech Stack  
-- **Frontend:** React.js, React Native, Flutter, Tailwind CSS, Redux  
-- **Backend:** Node.js, Ruby on Rails, Express.js  
-- **Databases:** PostgreSQL, MongoDB, MySQL  
-- **Cloud & DevOps:** Git, Docker, Google Cloud Platform (GCP), Heroku  
-- **Google Technologies:** Fleet Engine (Last Mile Fleet Solutions), Driver SDK  
+**Software Engineer focused on system architecture.**  
+Not only do I build scalable backends with Node.js and Ruby on Rails, but I also engineer high-performance mobile apps with React Native and integrate applied AI into production systems. I specialize in turning complex requirements into resilient infrastructure, aggressively deleting dead code, and pretending I remember how regex works without looking it up. Ultimately, my goal is simple: ship reliable software that humans actually want to use, and that future-me won't curse at.
 
-## Selected Projects  
-- **[Oddah](https://oddah.com)** – A digital space designed for couples to foster connection through mindful moments and shared dreams 
-- **[WordRift](https://github.com/gtchakama/wordrift)** – A word-matching game leveraging React & Tailwind CSS for a seamless UI/UX  
-- **HearMe** – Assistive technology for speech impairments, enhancing accessibility through text-to-speech and speech-to-text integration  
- 
+## Tech Stack
+- **Core:** Node.js, Ruby on Rails, React Native, React.js
+- **Data & Infrastructure:** PostgreSQL, MongoDB, Docker, Google Cloud Platform (GCP)
+- **Specialized Domain:** Applied AI Integrations (Gemini), Google Fleet Engine, Driver SDK
 
-## Talks & Industry Engagement  
-I actively contribute to the tech ecosystem by speaking at major events. Notably, I presented at **Google Build with AI**, where I demonstrated the capabilities of **Gemini AI** and its transformative potential in real-world applications.  
+## Core Philosophy: Idempotency
+I am a strong advocate for idempotent API design. In distributed systems, network failures and duplicate requests are guaranteed. Designing systems so that identical requests can be safely retried without corrupting state or causing unintended side effects is the difference between an application that survives a spike and one that breaks under pressure. It forces you to engineer for failure from day one.
 
-## Blog & Insights  
-I share insights on software engineering, emerging technologies, and industry trends. Explore my latest articles here:  
-[📖 Read More](https://blog.gtchakama.com/)  
+## Notable Integration: Real-Time Logistics with Google Fleet Engine
+One of my most complex architectural challenges was integrating Google's Fleet Engine and Driver SDK into a production environment. This wasn't just about rendering a map; it required orchestrating real-time bidirectional geolocation streams, optimizing mobile battery consumption, and handling intermittent network drops without losing state. It transformed a static database into a live, observable logistics network, proving that the hardest part of engineering isn't the UI—it is managing chaotic, real-world data synchronization.
 
-🚀 Always building, always innovating.  
+## Speaking & Community
+I actively contribute to the developer ecosystem through speaking and mentorship.
+- **Google Build with AI**: Presenter. Demonstrated the integration and production capabilities of Gemini AI in real-world application architectures.
+- **Google DevFest**: Keynote Speaker. Presented advanced performance techniques and architectural patterns in React.
+- **Developer Mentorship**: Active mentor for WeThinkCode and Google Africa Developer Scholarship (GADS).
+- **Awards**: JCI TOYP Honoree & 30 Under 30 Tech Innovator.
+
+## Writing
+I write about software engineering, system architecture, and emerging technologies.  
+[Read my latest articles at blog.gtchakama.com](https://blog.gtchakama.com/)
